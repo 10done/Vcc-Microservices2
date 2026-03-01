@@ -42,8 +42,6 @@ chmod +x iam-setup.sh
 | `deploy.sh` | Creates instance template, MIG, and configures CPU-based auto-scaling |
 | `iam-setup.sh` | Grants Viewer role to a principal (restricted access) |
 | `Architecture Diagram VCC2.png` | Architecture diagram |
-| `architecture-diagram.html` | Interactive diagram (open in browser) |
-| `architecture-diagram.mmd` | Mermaid source for the diagram |
 
 ## Configuration
 
